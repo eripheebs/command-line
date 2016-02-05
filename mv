@@ -1,0 +1,1 @@
+Description: mv is the command to move  file. It takes two parameters, the first one is the file to be moved and the second is where to move it to. The file can also be renamed by changing the file name in the second parameter. 
