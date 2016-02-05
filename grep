@@ -1,0 +1,1 @@
+Description: grep searches for the first paramater through the files referenced in the latter parameters and returns those lines which match. It is used for regular expressions (i.e. patterns)
