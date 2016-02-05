@@ -1,0 +1,1 @@
+Description: cp is to copy files. If the final parameter is another file, it takes a maixmum of two parameters and copies the contents of the first file to the second file. If the final parameter is a directory, it can take more than two parameters, and copies all previous files into the directory (whcih should be the last parameter).
